@@ -1,0 +1,91 @@
+li a { 
+    background: rgb(1,157,232); 
+    border: 2px outset #aabaff; 
+	display: block; 
+    color: white; 
+    text-decoration: none; 
+    padding: 5px;
+	margin-left: 5px;
+}
+
+li {
+    list-style-type: none; 
+    margin-bottom: 3px; 
+    text-align: center; 
+}
+
+#nav ul { 
+    position:absolute; 
+    padding-top:10px; 
+    left:-60px; 
+    color:navy; 
+    width:175px;
+    text-align:center; 
+    margin:0; 
+}
+
+#container {
+    position:relative; 
+    min-width:960px; 
+    max-width:1200px; 
+    margin:auto; 
+    text-align:left;	
+}
+
+#content { 	
+    margin-left:250px; 
+    margin-right:150px; 
+}
+
+#footer { 
+    margin:auto; 
+    text-align:center; 
+    clear:both; 
+}
+
+#header {  
+    height:155px;
+    background-image: url('images/blockchain.jpeg');
+    background-repeat: repeat; 
+    padding:0; 
+    color:white; 
+}
+
+form { 
+    margin-left:180px; 
+}
+
+h1 {
+	margin-left:20px;
+	padding-bottom:10px;
+}
+
+h2 { 
+    font-size:150%; 
+    color:black; 
+    text-align:center; 
+}
+
+#login {
+	text-align:center;
+}
+
+table { 
+    width:800px; 
+    border:1px navy solid; 
+    border-collapse:collapse; 
+    margin-left:75px; 
+    margin-right:200px; 
+}
+
+td { 
+    border:1px navy solid; 
+    padding:1px 0 1px 4px; 
+    text-align:center; 
+}
+
+th { 
+    border:1px navy solid; 
+    padding:1px 0 1px 4px; 
+    text-align:center; 
+}
